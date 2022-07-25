@@ -27,7 +27,7 @@ This REST API server was built using Python & Flask.
 * DELETE item - ```/item/<itemname>```
 * GET all items - ```/items```
 
-<h4<Stores:</h4>
+<h4>Stores:</h4>
 
 * GET store by name - ```/store/<storename>```
 * POST store - ```/store/<storename>```
