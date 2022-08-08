@@ -40,4 +40,4 @@ This REST API server was built using Python & Flask.
 <p>Python</p>
 <p>Flask (flask, flask-restful)</p>
 <p>Flask JWT Extended</p>
-<p>SQLAlchemy</p>
+<p>SQLAlchemy (ORM)</p>
